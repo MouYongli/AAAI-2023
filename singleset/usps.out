@@ -1,0 +1,304 @@
+nohup: no se tendrá en cuenta la entrada
+/home/jiahui/miniconda3/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.8) or chardet (5.0.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+Epoch: 0
+ usps | Train loss: 0.7420 | Train acc : 0.8170
+ usps | Test loss: 1.4472 | Test acc: 0.8903
+Epoch: 1
+ usps | Train loss: 0.4982 | Train acc : 0.8762
+ usps | Test loss: 2.0411 | Test acc: 0.3876
+Epoch: 2
+ usps | Train loss: 0.3775 | Train acc : 0.8964
+ usps | Test loss: 0.8074 | Test acc: 0.7586
+Epoch: 3
+ usps | Train loss: 0.1655 | Train acc : 0.9542
+ usps | Test loss: 0.1985 | Test acc: 0.9435
+Epoch: 4
+ usps | Train loss: 0.0587 | Train acc : 0.9879
+ usps | Test loss: 0.2098 | Test acc: 0.9328
+Epoch: 5
+ usps | Train loss: 0.0389 | Train acc : 0.9906
+ usps | Test loss: 0.1875 | Test acc: 0.9473
+Epoch: 6
+ usps | Train loss: 0.0135 | Train acc : 1.0000
+ usps | Test loss: 0.1843 | Test acc: 0.9462
+Epoch: 7
+ usps | Train loss: 0.0092 | Train acc : 1.0000
+ usps | Test loss: 0.1863 | Test acc: 0.9452
+Epoch: 8
+ usps | Train loss: 0.0071 | Train acc : 1.0000
+ usps | Test loss: 0.2234 | Test acc: 0.9323
+Epoch: 9
+ usps | Train loss: 0.0117 | Train acc : 0.9960
+ usps | Test loss: 0.2025 | Test acc: 0.9457
+Epoch: 10
+ usps | Train loss: 0.0046 | Train acc : 1.0000
+ usps | Test loss: 0.2017 | Test acc: 0.9441
+Epoch: 11
+ usps | Train loss: 0.0036 | Train acc : 1.0000
+ usps | Test loss: 0.1986 | Test acc: 0.9435
+Epoch: 12
+ usps | Train loss: 0.0031 | Train acc : 1.0000
+ usps | Test loss: 0.2035 | Test acc: 0.9419
+Epoch: 13
+ usps | Train loss: 0.0026 | Train acc : 1.0000
+ usps | Test loss: 0.2034 | Test acc: 0.9435
+Epoch: 14
+ usps | Train loss: 0.0021 | Train acc : 1.0000
+ usps | Test loss: 0.2054 | Test acc: 0.9419
+Epoch: 15
+ usps | Train loss: 0.0020 | Train acc : 1.0000
+ usps | Test loss: 0.2077 | Test acc: 0.9435
+Epoch: 16
+ usps | Train loss: 0.0018 | Train acc : 1.0000
+ usps | Test loss: 0.2069 | Test acc: 0.9430
+Epoch: 17
+ usps | Train loss: 0.0016 | Train acc : 1.0000
+ usps | Test loss: 0.2095 | Test acc: 0.9430
+Epoch: 18
+ usps | Train loss: 0.0016 | Train acc : 1.0000
+ usps | Test loss: 0.2137 | Test acc: 0.9430
+Epoch: 19
+ usps | Train loss: 0.0014 | Train acc : 1.0000
+ usps | Test loss: 0.2126 | Test acc: 0.9446
+Epoch: 20
+ usps | Train loss: 0.0013 | Train acc : 1.0000
+ usps | Test loss: 0.2145 | Test acc: 0.9435
+Epoch: 21
+ usps | Train loss: 0.0012 | Train acc : 1.0000
+ usps | Test loss: 0.2157 | Test acc: 0.9441
+Epoch: 22
+ usps | Train loss: 0.0012 | Train acc : 1.0000
+ usps | Test loss: 0.2117 | Test acc: 0.9425
+Epoch: 23
+ usps | Train loss: 0.0011 | Train acc : 1.0000
+ usps | Test loss: 0.2168 | Test acc: 0.9430
+Epoch: 24
+ usps | Train loss: 0.0010 | Train acc : 1.0000
+ usps | Test loss: 0.2182 | Test acc: 0.9441
+Epoch: 25
+ usps | Train loss: 0.0010 | Train acc : 1.0000
+ usps | Test loss: 0.2189 | Test acc: 0.9430
+Epoch: 26
+ usps | Train loss: 0.0009 | Train acc : 1.0000
+ usps | Test loss: 0.2193 | Test acc: 0.9435
+Epoch: 27
+ usps | Train loss: 0.0009 | Train acc : 1.0000
+ usps | Test loss: 0.2188 | Test acc: 0.9435
+Epoch: 28
+ usps | Train loss: 0.0008 | Train acc : 1.0000
+ usps | Test loss: 0.2206 | Test acc: 0.9425
+Epoch: 29
+ usps | Train loss: 0.0008 | Train acc : 1.0000
+ usps | Test loss: 0.2202 | Test acc: 0.9435
+Epoch: 30
+ usps | Train loss: 0.0008 | Train acc : 1.0000
+ usps | Test loss: 0.2231 | Test acc: 0.9435
+Epoch: 31
+ usps | Train loss: 0.0007 | Train acc : 1.0000
+ usps | Test loss: 0.2250 | Test acc: 0.9435
+Epoch: 32
+ usps | Train loss: 0.0006 | Train acc : 1.0000
+ usps | Test loss: 0.2244 | Test acc: 0.9441
+Epoch: 33
+ usps | Train loss: 0.0006 | Train acc : 1.0000
+ usps | Test loss: 0.2268 | Test acc: 0.9425
+Epoch: 34
+ usps | Train loss: 0.0006 | Train acc : 1.0000
+ usps | Test loss: 0.2251 | Test acc: 0.9435
+Epoch: 35
+ usps | Train loss: 0.0006 | Train acc : 1.0000
+ usps | Test loss: 0.2258 | Test acc: 0.9435
+Epoch: 36
+ usps | Train loss: 0.0005 | Train acc : 1.0000
+ usps | Test loss: 0.2277 | Test acc: 0.9425
+Epoch: 37
+ usps | Train loss: 0.0005 | Train acc : 1.0000
+ usps | Test loss: 0.2282 | Test acc: 0.9430
+Epoch: 38
+ usps | Train loss: 0.0005 | Train acc : 1.0000
+ usps | Test loss: 0.2285 | Test acc: 0.9430
+Epoch: 39
+ usps | Train loss: 0.0005 | Train acc : 1.0000
+ usps | Test loss: 0.2295 | Test acc: 0.9430
+Epoch: 40
+ usps | Train loss: 0.0005 | Train acc : 1.0000
+ usps | Test loss: 0.2305 | Test acc: 0.9435
+Epoch: 41
+ usps | Train loss: 0.0005 | Train acc : 1.0000
+ usps | Test loss: 0.2307 | Test acc: 0.9430
+Epoch: 42
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2319 | Test acc: 0.9435
+Epoch: 43
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2319 | Test acc: 0.9425
+Epoch: 44
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2335 | Test acc: 0.9425
+Epoch: 45
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2344 | Test acc: 0.9430
+Epoch: 46
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2334 | Test acc: 0.9419
+Epoch: 47
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2336 | Test acc: 0.9435
+Epoch: 48
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2346 | Test acc: 0.9430
+Epoch: 49
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2356 | Test acc: 0.9430
+Epoch: 50
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2360 | Test acc: 0.9425
+Epoch: 51
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2362 | Test acc: 0.9430
+Epoch: 52
+ usps | Train loss: 0.0004 | Train acc : 1.0000
+ usps | Test loss: 0.2375 | Test acc: 0.9430
+Epoch: 53
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2377 | Test acc: 0.9430
+Epoch: 54
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2383 | Test acc: 0.9430
+Epoch: 55
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2388 | Test acc: 0.9430
+Epoch: 56
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2394 | Test acc: 0.9430
+Epoch: 57
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2395 | Test acc: 0.9435
+Epoch: 58
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2400 | Test acc: 0.9430
+Epoch: 59
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2402 | Test acc: 0.9435
+Epoch: 60
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2411 | Test acc: 0.9430
+Epoch: 61
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2419 | Test acc: 0.9435
+Epoch: 62
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2418 | Test acc: 0.9435
+Epoch: 63
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2425 | Test acc: 0.9435
+Epoch: 64
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2424 | Test acc: 0.9430
+Epoch: 65
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2426 | Test acc: 0.9430
+Epoch: 66
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2434 | Test acc: 0.9435
+Epoch: 67
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2441 | Test acc: 0.9435
+Epoch: 68
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2444 | Test acc: 0.9435
+Epoch: 69
+ usps | Train loss: 0.0003 | Train acc : 1.0000
+ usps | Test loss: 0.2448 | Test acc: 0.9435
+Epoch: 70
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2451 | Test acc: 0.9435
+Epoch: 71
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2459 | Test acc: 0.9435
+Epoch: 72
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2460 | Test acc: 0.9430
+Epoch: 73
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2463 | Test acc: 0.9435
+Epoch: 74
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2467 | Test acc: 0.9435
+Epoch: 75
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2468 | Test acc: 0.9430
+Epoch: 76
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2467 | Test acc: 0.9425
+Epoch: 77
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2476 | Test acc: 0.9430
+Epoch: 78
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2480 | Test acc: 0.9435
+Epoch: 79
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2485 | Test acc: 0.9435
+Epoch: 80
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2489 | Test acc: 0.9441
+Epoch: 81
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2497 | Test acc: 0.9435
+Epoch: 82
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2499 | Test acc: 0.9435
+Epoch: 83
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2505 | Test acc: 0.9435
+Epoch: 84
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2504 | Test acc: 0.9435
+Epoch: 85
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2508 | Test acc: 0.9435
+Epoch: 86
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2514 | Test acc: 0.9441
+Epoch: 87
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2510 | Test acc: 0.9435
+Epoch: 88
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2517 | Test acc: 0.9441
+Epoch: 89
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2521 | Test acc: 0.9435
+Epoch: 90
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2527 | Test acc: 0.9435
+Epoch: 91
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2530 | Test acc: 0.9441
+Epoch: 92
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2532 | Test acc: 0.9435
+Epoch: 93
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2535 | Test acc: 0.9441
+Epoch: 94
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2537 | Test acc: 0.9446
+Epoch: 95
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2539 | Test acc: 0.9441
+Epoch: 96
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2538 | Test acc: 0.9441
+Epoch: 97
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2536 | Test acc: 0.9441
+Epoch: 98
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2548 | Test acc: 0.9435
+Epoch: 99
+ usps | Train loss: 0.0002 | Train acc : 1.0000
+ usps | Test loss: 0.2550 | Test acc: 0.9435
+ Saving the best checkpoint to ../checkpoint/digits/singleset_digits/SingleSet_usps...

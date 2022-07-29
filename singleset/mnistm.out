@@ -1,0 +1,304 @@
+nohup: no se tendrá en cuenta la entrada
+/home/jiahui/miniconda3/lib/python3.9/site-packages/requests/__init__.py:102: RequestsDependencyWarning: urllib3 (1.26.8) or chardet (5.0.0)/charset_normalizer (2.0.4) doesn't match a supported version!
+  warnings.warn("urllib3 ({}) or chardet ({})/charset_normalizer ({}) doesn't match a supported "
+Epoch: 0
+ mnistm | Train loss: 1.9306 | Train acc : 0.3553
+ mnistm | Test loss: 2.0693 | Test acc: 0.3853
+Epoch: 1
+ mnistm | Train loss: 1.5475 | Train acc : 0.4980
+ mnistm | Test loss: 2.0918 | Test acc: 0.2961
+Epoch: 2
+ mnistm | Train loss: 1.1076 | Train acc : 0.6581
+ mnistm | Test loss: 1.6508 | Test acc: 0.4639
+Epoch: 3
+ mnistm | Train loss: 0.8400 | Train acc : 0.7349
+ mnistm | Test loss: 1.2067 | Test acc: 0.5955
+Epoch: 4
+ mnistm | Train loss: 0.5055 | Train acc : 0.8573
+ mnistm | Test loss: 6.7085 | Test acc: 0.1117
+Epoch: 5
+ mnistm | Train loss: 1.2966 | Train acc : 0.6676
+ mnistm | Test loss: 1.1956 | Test acc: 0.6019
+Epoch: 6
+ mnistm | Train loss: 0.5332 | Train acc : 0.8412
+ mnistm | Test loss: 2.2262 | Test acc: 0.5047
+Epoch: 7
+ mnistm | Train loss: 0.3695 | Train acc : 0.8843
+ mnistm | Test loss: 1.0215 | Test acc: 0.6741
+Epoch: 8
+ mnistm | Train loss: 0.1445 | Train acc : 0.9677
+ mnistm | Test loss: 1.3315 | Test acc: 0.6383
+Epoch: 9
+ mnistm | Train loss: 0.1172 | Train acc : 0.9798
+ mnistm | Test loss: 0.7497 | Test acc: 0.7755
+Epoch: 10
+ mnistm | Train loss: 0.1211 | Train acc : 0.9731
+ mnistm | Test loss: 0.7664 | Test acc: 0.7729
+Epoch: 11
+ mnistm | Train loss: 0.0407 | Train acc : 0.9960
+ mnistm | Test loss: 0.7595 | Test acc: 0.7834
+Epoch: 12
+ mnistm | Train loss: 0.0292 | Train acc : 1.0000
+ mnistm | Test loss: 0.9460 | Test acc: 0.7381
+Epoch: 13
+ mnistm | Train loss: 0.0241 | Train acc : 0.9960
+ mnistm | Test loss: 0.7595 | Test acc: 0.7894
+Epoch: 14
+ mnistm | Train loss: 0.0155 | Train acc : 0.9987
+ mnistm | Test loss: 0.7898 | Test acc: 0.7861
+Epoch: 15
+ mnistm | Train loss: 0.0122 | Train acc : 1.0000
+ mnistm | Test loss: 0.8026 | Test acc: 0.7880
+Epoch: 16
+ mnistm | Train loss: 0.0106 | Train acc : 1.0000
+ mnistm | Test loss: 0.8032 | Test acc: 0.7903
+Epoch: 17
+ mnistm | Train loss: 0.0090 | Train acc : 1.0000
+ mnistm | Test loss: 0.8168 | Test acc: 0.7902
+Epoch: 18
+ mnistm | Train loss: 0.0079 | Train acc : 1.0000
+ mnistm | Test loss: 0.8434 | Test acc: 0.7866
+Epoch: 19
+ mnistm | Train loss: 0.0069 | Train acc : 1.0000
+ mnistm | Test loss: 0.8425 | Test acc: 0.7896
+Epoch: 20
+ mnistm | Train loss: 0.0060 | Train acc : 1.0000
+ mnistm | Test loss: 0.8756 | Test acc: 0.7834
+Epoch: 21
+ mnistm | Train loss: 0.0058 | Train acc : 1.0000
+ mnistm | Test loss: 0.8612 | Test acc: 0.7891
+Epoch: 22
+ mnistm | Train loss: 0.0047 | Train acc : 1.0000
+ mnistm | Test loss: 0.8601 | Test acc: 0.7933
+Epoch: 23
+ mnistm | Train loss: 0.0046 | Train acc : 1.0000
+ mnistm | Test loss: 0.8774 | Test acc: 0.7878
+Epoch: 24
+ mnistm | Train loss: 0.0042 | Train acc : 1.0000
+ mnistm | Test loss: 0.8971 | Test acc: 0.7890
+Epoch: 25
+ mnistm | Train loss: 0.0038 | Train acc : 1.0000
+ mnistm | Test loss: 0.8856 | Test acc: 0.7906
+Epoch: 26
+ mnistm | Train loss: 0.0033 | Train acc : 1.0000
+ mnistm | Test loss: 0.9023 | Test acc: 0.7909
+Epoch: 27
+ mnistm | Train loss: 0.0032 | Train acc : 1.0000
+ mnistm | Test loss: 0.9040 | Test acc: 0.7912
+Epoch: 28
+ mnistm | Train loss: 0.0029 | Train acc : 1.0000
+ mnistm | Test loss: 0.9188 | Test acc: 0.7886
+Epoch: 29
+ mnistm | Train loss: 0.0027 | Train acc : 1.0000
+ mnistm | Test loss: 0.9158 | Test acc: 0.7903
+Epoch: 30
+ mnistm | Train loss: 0.0025 | Train acc : 1.0000
+ mnistm | Test loss: 0.9258 | Test acc: 0.7897
+Epoch: 31
+ mnistm | Train loss: 0.0025 | Train acc : 1.0000
+ mnistm | Test loss: 0.9250 | Test acc: 0.7900
+Epoch: 32
+ mnistm | Train loss: 0.0023 | Train acc : 1.0000
+ mnistm | Test loss: 0.9301 | Test acc: 0.7890
+Epoch: 33
+ mnistm | Train loss: 0.0022 | Train acc : 1.0000
+ mnistm | Test loss: 0.9379 | Test acc: 0.7900
+Epoch: 34
+ mnistm | Train loss: 0.0021 | Train acc : 1.0000
+ mnistm | Test loss: 0.9419 | Test acc: 0.7905
+Epoch: 35
+ mnistm | Train loss: 0.0019 | Train acc : 1.0000
+ mnistm | Test loss: 0.9470 | Test acc: 0.7914
+Epoch: 36
+ mnistm | Train loss: 0.0019 | Train acc : 1.0000
+ mnistm | Test loss: 0.9548 | Test acc: 0.7894
+Epoch: 37
+ mnistm | Train loss: 0.0018 | Train acc : 1.0000
+ mnistm | Test loss: 0.9542 | Test acc: 0.7904
+Epoch: 38
+ mnistm | Train loss: 0.0018 | Train acc : 1.0000
+ mnistm | Test loss: 0.9613 | Test acc: 0.7906
+Epoch: 39
+ mnistm | Train loss: 0.0017 | Train acc : 1.0000
+ mnistm | Test loss: 0.9679 | Test acc: 0.7894
+Epoch: 40
+ mnistm | Train loss: 0.0016 | Train acc : 1.0000
+ mnistm | Test loss: 0.9690 | Test acc: 0.7896
+Epoch: 41
+ mnistm | Train loss: 0.0015 | Train acc : 1.0000
+ mnistm | Test loss: 0.9734 | Test acc: 0.7899
+Epoch: 42
+ mnistm | Train loss: 0.0014 | Train acc : 1.0000
+ mnistm | Test loss: 0.9745 | Test acc: 0.7899
+Epoch: 43
+ mnistm | Train loss: 0.0014 | Train acc : 1.0000
+ mnistm | Test loss: 0.9804 | Test acc: 0.7899
+Epoch: 44
+ mnistm | Train loss: 0.0013 | Train acc : 1.0000
+ mnistm | Test loss: 0.9846 | Test acc: 0.7891
+Epoch: 45
+ mnistm | Train loss: 0.0013 | Train acc : 1.0000
+ mnistm | Test loss: 0.9882 | Test acc: 0.7894
+Epoch: 46
+ mnistm | Train loss: 0.0013 | Train acc : 1.0000
+ mnistm | Test loss: 0.9911 | Test acc: 0.7901
+Epoch: 47
+ mnistm | Train loss: 0.0012 | Train acc : 1.0000
+ mnistm | Test loss: 0.9980 | Test acc: 0.7894
+Epoch: 48
+ mnistm | Train loss: 0.0012 | Train acc : 1.0000
+ mnistm | Test loss: 1.0042 | Test acc: 0.7879
+Epoch: 49
+ mnistm | Train loss: 0.0012 | Train acc : 1.0000
+ mnistm | Test loss: 1.0045 | Test acc: 0.7890
+Epoch: 50
+ mnistm | Train loss: 0.0012 | Train acc : 1.0000
+ mnistm | Test loss: 1.0100 | Test acc: 0.7897
+Epoch: 51
+ mnistm | Train loss: 0.0011 | Train acc : 1.0000
+ mnistm | Test loss: 1.0106 | Test acc: 0.7890
+Epoch: 52
+ mnistm | Train loss: 0.0011 | Train acc : 1.0000
+ mnistm | Test loss: 1.0164 | Test acc: 0.7891
+Epoch: 53
+ mnistm | Train loss: 0.0011 | Train acc : 1.0000
+ mnistm | Test loss: 1.0156 | Test acc: 0.7900
+Epoch: 54
+ mnistm | Train loss: 0.0010 | Train acc : 1.0000
+ mnistm | Test loss: 1.0226 | Test acc: 0.7891
+Epoch: 55
+ mnistm | Train loss: 0.0010 | Train acc : 1.0000
+ mnistm | Test loss: 1.0252 | Test acc: 0.7889
+Epoch: 56
+ mnistm | Train loss: 0.0009 | Train acc : 1.0000
+ mnistm | Test loss: 1.0257 | Test acc: 0.7891
+Epoch: 57
+ mnistm | Train loss: 0.0009 | Train acc : 1.0000
+ mnistm | Test loss: 1.0296 | Test acc: 0.7886
+Epoch: 58
+ mnistm | Train loss: 0.0009 | Train acc : 1.0000
+ mnistm | Test loss: 1.0296 | Test acc: 0.7889
+Epoch: 59
+ mnistm | Train loss: 0.0010 | Train acc : 1.0000
+ mnistm | Test loss: 1.0260 | Test acc: 0.7910
+Epoch: 60
+ mnistm | Train loss: 0.0009 | Train acc : 1.0000
+ mnistm | Test loss: 1.0357 | Test acc: 0.7894
+Epoch: 61
+ mnistm | Train loss: 0.0008 | Train acc : 1.0000
+ mnistm | Test loss: 1.0404 | Test acc: 0.7889
+Epoch: 62
+ mnistm | Train loss: 0.0008 | Train acc : 1.0000
+ mnistm | Test loss: 1.0426 | Test acc: 0.7894
+Epoch: 63
+ mnistm | Train loss: 0.0008 | Train acc : 1.0000
+ mnistm | Test loss: 1.0458 | Test acc: 0.7884
+Epoch: 64
+ mnistm | Train loss: 0.0008 | Train acc : 1.0000
+ mnistm | Test loss: 1.0481 | Test acc: 0.7887
+Epoch: 65
+ mnistm | Train loss: 0.0008 | Train acc : 1.0000
+ mnistm | Test loss: 1.0503 | Test acc: 0.7895
+Epoch: 66
+ mnistm | Train loss: 0.0007 | Train acc : 1.0000
+ mnistm | Test loss: 1.0528 | Test acc: 0.7888
+Epoch: 67
+ mnistm | Train loss: 0.0007 | Train acc : 1.0000
+ mnistm | Test loss: 1.0538 | Test acc: 0.7889
+Epoch: 68
+ mnistm | Train loss: 0.0007 | Train acc : 1.0000
+ mnistm | Test loss: 1.0552 | Test acc: 0.7892
+Epoch: 69
+ mnistm | Train loss: 0.0007 | Train acc : 1.0000
+ mnistm | Test loss: 1.0562 | Test acc: 0.7890
+Epoch: 70
+ mnistm | Train loss: 0.0007 | Train acc : 1.0000
+ mnistm | Test loss: 1.0613 | Test acc: 0.7884
+Epoch: 71
+ mnistm | Train loss: 0.0007 | Train acc : 1.0000
+ mnistm | Test loss: 1.0636 | Test acc: 0.7888
+Epoch: 72
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0662 | Test acc: 0.7883
+Epoch: 73
+ mnistm | Train loss: 0.0007 | Train acc : 1.0000
+ mnistm | Test loss: 1.0691 | Test acc: 0.7881
+Epoch: 74
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0722 | Test acc: 0.7884
+Epoch: 75
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0744 | Test acc: 0.7874
+Epoch: 76
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0753 | Test acc: 0.7876
+Epoch: 77
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0767 | Test acc: 0.7881
+Epoch: 78
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0770 | Test acc: 0.7884
+Epoch: 79
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0793 | Test acc: 0.7884
+Epoch: 80
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0813 | Test acc: 0.7885
+Epoch: 81
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.0832 | Test acc: 0.7884
+Epoch: 82
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0844 | Test acc: 0.7879
+Epoch: 83
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.0865 | Test acc: 0.7882
+Epoch: 84
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.0923 | Test acc: 0.7879
+Epoch: 85
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.0930 | Test acc: 0.7881
+Epoch: 86
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.0946 | Test acc: 0.7884
+Epoch: 87
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.0962 | Test acc: 0.7878
+Epoch: 88
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.0985 | Test acc: 0.7874
+Epoch: 89
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.0991 | Test acc: 0.7875
+Epoch: 90
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.1002 | Test acc: 0.7877
+Epoch: 91
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.1014 | Test acc: 0.7879
+Epoch: 92
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.1042 | Test acc: 0.7882
+Epoch: 93
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.1073 | Test acc: 0.7885
+Epoch: 94
+ mnistm | Train loss: 0.0004 | Train acc : 1.0000
+ mnistm | Test loss: 1.1104 | Test acc: 0.7884
+Epoch: 95
+ mnistm | Train loss: 0.0006 | Train acc : 1.0000
+ mnistm | Test loss: 1.1118 | Test acc: 0.7870
+Epoch: 96
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.1125 | Test acc: 0.7881
+Epoch: 97
+ mnistm | Train loss: 0.0005 | Train acc : 1.0000
+ mnistm | Test loss: 1.1149 | Test acc: 0.7870
+Epoch: 98
+ mnistm | Train loss: 0.0004 | Train acc : 1.0000
+ mnistm | Test loss: 1.1141 | Test acc: 0.7874
+Epoch: 99
+ mnistm | Train loss: 0.0004 | Train acc : 1.0000
+ mnistm | Test loss: 1.1162 | Test acc: 0.7879
+ Saving the best checkpoint to ../checkpoint/digits/singleset_digits/SingleSet_mnistm...
